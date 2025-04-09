@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "felt",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.felt"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

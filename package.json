@@ -1,0 +1,28 @@
+{
+  "name": "createkeysapk",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con Felt",
+  "main": "src/main.felt",
+  "scripts": {
+    "build": "felt build",
+    "start": "felt start",
+    "test": "felt test"
+  },
+  "dependencies": {
+    "felt": "^1.0.0"
+  },
+  "devDependencies": {
+    "felt-cli": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MundowatRicardo/CreateKeysAPK"
+  },
+  "keywords": [
+    "felt",
+    "example",
+    "project"
+  ],
+  "author": "Ricardo San José Tejedor",
+  "license": "MIT"
+}
